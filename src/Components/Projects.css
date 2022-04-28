@@ -1,0 +1,46 @@
+.projects h1 {
+    padding: 110px 45px 0 45px;
+}
+
+.projects-info {
+    padding: 60px 42px 35px 42px;
+}
+
+.accordion {
+    max-width: 800px;
+}
+
+.accordion-item {
+    margin-bottom: 10px;
+    border: none !important;
+}
+
+.accordion-body {
+    background-color: #FAF9F8;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.accordion-body img {
+    width: 100%;
+    padding-bottom: 16px;
+    padding-top: 8px;
+}
+
+.accordion-button {
+    color: rgb(67, 48, 48, 60%);
+    background-color: #FAF9F8;
+    font-size: 20px;
+    font-family: 'Libre Baskerville', serif;
+    padding: 8px;
+}
+
+.accordion-button:not(.collapsed), button:focus:not(:focus-visible) {
+    background-color: #FAF9F8;
+    color: #a88a85;
+}
+
+
+
+/* button:focus:not(:focus-visible) {
+    border: none !important;
+} */

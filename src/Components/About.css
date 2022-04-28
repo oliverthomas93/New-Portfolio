@@ -1,0 +1,22 @@
+.about h1 {
+    padding: 110px 45px 0 45px;
+}
+
+.about p {
+    color: rgb(67, 48, 48, 60%);
+    font-size: 20px;
+    font-family: 'Libre Baskerville', serif;
+    padding: 60px 42px 35px 42px;
+}
+
+.top {
+    text-align: right;
+}
+
+.fa-chevron-up {
+    margin-bottom: 30px;
+    margin-right: 30px;
+    font-size: 32px;
+    color: #a88a85;
+    cursor: pointer;
+  }
